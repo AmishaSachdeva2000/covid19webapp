@@ -1,0 +1,8 @@
+streamlit==0.74.1
+pandas==1.2.0
+numpy==1.17.4
+torch
+torchvision
+transformers==4.1.1
+django_haystack==3.0
+scikit_learn==0.24.0
